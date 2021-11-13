@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Specific Files</string>
+
+    <string name="button_save_to_internal_storage">Save to Internal Storage</string>
+    <string name="button_save_to_internal_cache">Save to Internal Cache</string>
+    <string name="button_save_to_external_storage">Save to External Storage</string>
+    <string name="button_save_to_external_cache">Save to External Cache</string>
+</resources>
